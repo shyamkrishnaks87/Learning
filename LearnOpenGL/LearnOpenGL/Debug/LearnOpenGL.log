@@ -1,0 +1,5 @@
+﻿  glfw_window.cpp
+  glfw_window_triangle.cpp
+C:\Practice\OpenGL\LearnOpenGL\LearnOpenGL\glfw_window_triangle.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  LearnOpenGL.vcxproj -> C:\Practice\OpenGL\LearnOpenGL\Debug\LearnOpenGL.exe
